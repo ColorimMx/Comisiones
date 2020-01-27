@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_2D23D7E27AE01F22A13862A1DF31BC64"
+        "OwnerKey" = "8:_72F49004B42348F0B546EA41773D5679"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3018E6A9DFECAD968DC1F21C6B112A65"
         "OwnerKey" = "8:_72F49004B42348F0B546EA41773D5679"
         "MsmSig" = "8:_UNDEFINED"
@@ -40,7 +46,7 @@
         "Entry"
         {
         "MsmKey" = "8:_9BEDB1393445DB173AC07D959400373D"
-        "OwnerKey" = "8:_FD6B04F97EAAB26CBCDD703C07993831"
+        "OwnerKey" = "8:_2D23D7E27AE01F22A13862A1DF31BC64"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -63,8 +69,8 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_FD6B04F97EAAB26CBCDD703C07993831"
-        "OwnerKey" = "8:_72F49004B42348F0B546EA41773D5679"
+        "MsmKey" = "8:_F76C64819D1157B1660AEA01E817C660"
+        "OwnerKey" = "8:_9BEDB1393445DB173AC07D959400373D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -76,7 +82,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_B7C0D0BC419A8B38C4775A5FE7FA5492"
+        "OwnerKey" = "8:_72F49004B42348F0B546EA41773D5679"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -88,19 +94,19 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2D23D7E27AE01F22A13862A1DF31BC64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_9BEDB1393445DB173AC07D959400373D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FD6B04F97EAAB26CBCDD703C07993831"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_72F49004B42348F0B546EA41773D5679"
+        "OwnerKey" = "8:_B7C0D0BC419A8B38C4775A5FE7FA5492"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -208,6 +214,37 @@
         }
         "File"
         {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2D23D7E27AE01F22A13862A1DF31BC64"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_2D23D7E27AE01F22A13862A1DF31BC64"
+                    {
+                    "Name" = "8:AxShockwaveFlashObjects.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:AxShockwaveFlashObjects.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_4361B600465042989565839046CFB51B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3018E6A9DFECAD968DC1F21C6B112A65"
             {
             "AssemblyRegister" = "3:1"
@@ -243,9 +280,14 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.Prompting, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.Prompting, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_51B1D1B5BBAA79FECA30C5CD5A704D59"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.Prompting.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:CrystalDecisions.ReportAppServer.Prompting.dll"
             "TargetName" = "8:"
@@ -289,9 +331,14 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"
+            "AssemblyAsmDisplayName" = "8:ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_9BEDB1393445DB173AC07D959400373D"
+                    {
+                    "Name" = "8:ShockwaveFlashObjects.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:ShockwaveFlashObjects.dll"
             "TargetName" = "8:"
@@ -318,6 +365,11 @@
             "AssemblyAsmDisplayName" = "8:stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
+                    "_B7C0D0BC419A8B38C4775A5FE7FA5492"
+                    {
+                    "Name" = "8:stdole.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:stdole.dll"
             "TargetName" = "8:"
@@ -337,16 +389,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FD6B04F97EAAB26CBCDD703C07993831"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F76C64819D1157B1660AEA01E817C660"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:FlashControlV71.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:Flash.ocx"
+            "TargetName" = "8:Flash.ocx"
             "Tag" = "8:"
             "Folder" = "8:_4361B600465042989565839046CFB51B"
             "Condition" = "8:"
@@ -430,15 +476,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Colorim Comisiones"
-        "ProductCode" = "8:{E7761523-0F54-4D7F-A44B-DDA8D53A8230}"
-        "PackageCode" = "8:{D9F95899-5CF3-4E3F-A48D-6366D5109A86}"
+        "ProductCode" = "8:{A58191FB-113D-4BBE-9B03-D3DF97932472}"
+        "PackageCode" = "8:{B1161C94-0399-4E06-ACD6-5A338271953A}"
         "UpgradeCode" = "8:{426721BC-AFB4-44A7-B79F-E80A51A5F881}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.7"
+        "ProductVersion" = "8:1.9"
         "Manufacturer" = "8:Amador Solis Juan Pablo"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
