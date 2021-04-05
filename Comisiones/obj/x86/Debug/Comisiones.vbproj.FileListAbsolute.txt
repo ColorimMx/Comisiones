@@ -156,19 +156,6 @@ C:\Users\Dellcore\Documents\Visual Studio 2010\Projects\Comisiones - V1.7\Comisi
 C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.exe
 C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.xml
 C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.pdb
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.exe
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.xml
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.pdb
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.vbprojResolveAssemblyReference.cache
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.AgeCliMBA.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.AgeFamMBA.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.AgeTipCob.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.Loading.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.Login.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.Menu.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.Resources.resources
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\obj\x86\Debug\Comisiones.vbproj.GenerateResource.Cache
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\bin\Debug\Comisiones.exe.config
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\bin\Debug\Comisiones.exe
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\bin\Debug\Comisiones.pdb
-C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.8\Comisiones\bin\Debug\Comisiones.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Comisiones - V1.9\Comisiones\obj\x86\Debug\Comisiones.exe
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Comisiones - V1.9\Comisiones\obj\x86\Debug\Comisiones.xml
+C:\Users\Pablo Amador Solis\Documents\Visual Studio 2010\Projects\Comisiones - V1.9\Comisiones\obj\x86\Debug\Comisiones.pdb
