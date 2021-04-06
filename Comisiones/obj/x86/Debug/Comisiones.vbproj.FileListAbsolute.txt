@@ -7,7 +7,6 @@ C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Com
 C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.xml
 C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.pdb
 C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Menu.resources
-C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbprojResolveAssemblyReference.cache
 C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeFamMBA.resources
 C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeCliMBA.resources
 C:\Users\Pablo Amador Solis\documents\visual studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeTipCob.resources
