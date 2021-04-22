@@ -183,3 +183,18 @@ C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.
 C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.10\Comisiones\obj\x86\Debug\Comisiones.Menu.resources
 C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.10\Comisiones\obj\x86\Debug\Comisiones.Resources.resources
 C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones - V1.10\Comisiones\obj\x86\Debug\Comisiones.vbproj.GenerateResource.Cache
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.exe
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.xml
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.pdb
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\bin\Debug\Comisiones.exe
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\bin\Debug\Comisiones.pdb
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\bin\Debug\Comisiones.xml
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbprojResolveAssemblyReference.cache
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeCliMBA.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeFamMBA.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeTipCob.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Loading.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Login.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Menu.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Resources.resources
+C:\Users\JuanPabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbproj.GenerateResource.Cache
