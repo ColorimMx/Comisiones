@@ -212,3 +212,4 @@ C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comis
 C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Menu.resources
 C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.Resources.resources
 C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbproj.GenerateResource.Cache
+C:\Users\PabloAmadorSolis\Documents\Visual Studio 2010\Projects\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbprojResolveAssemblyReference.cache
