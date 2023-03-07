@@ -31,4 +31,10 @@
         a.Show()
         Me.FindForm()
     End Sub
+
+    Private Sub AgentesToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AgentesToolStripMenuItem.Click
+        Dim a As New AgeSL
+        a.Show()
+        Me.FindForm()
+    End Sub
 End Class

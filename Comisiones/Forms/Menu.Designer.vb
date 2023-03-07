@@ -30,12 +30,14 @@ Partial Class Menu
         Me.AgenteTipoCobroToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ComisionesVmgToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ComisionesSLToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AgentesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ComisionesToolStripMenuItem, Me.ComisionesVmgToolStripMenuItem, Me.SalirToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ComisionesSLToolStripMenuItem, Me.ComisionesToolStripMenuItem, Me.ComisionesVmgToolStripMenuItem, Me.SalirToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(434, 24)
@@ -52,19 +54,19 @@ Partial Class Menu
         'AgenteFamiliaToolStripMenuItem
         '
         Me.AgenteFamiliaToolStripMenuItem.Name = "AgenteFamiliaToolStripMenuItem"
-        Me.AgenteFamiliaToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.AgenteFamiliaToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.AgenteFamiliaToolStripMenuItem.Text = "Agente-Familia"
         '
         'AgenteClienteToolStripMenuItem
         '
         Me.AgenteClienteToolStripMenuItem.Name = "AgenteClienteToolStripMenuItem"
-        Me.AgenteClienteToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.AgenteClienteToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.AgenteClienteToolStripMenuItem.Text = "Agente-Cliente"
         '
         'AgenteTipoCobroToolStripMenuItem
         '
         Me.AgenteTipoCobroToolStripMenuItem.Name = "AgenteTipoCobroToolStripMenuItem"
-        Me.AgenteTipoCobroToolStripMenuItem.Size = New System.Drawing.Size(177, 22)
+        Me.AgenteTipoCobroToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.AgenteTipoCobroToolStripMenuItem.Text = "Agente-Tipo Cobro"
         '
         'ComisionesVmgToolStripMenuItem
@@ -78,6 +80,19 @@ Partial Class Menu
         Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
         Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(41, 20)
         Me.SalirToolStripMenuItem.Text = "Salir"
+        '
+        'ComisionesSLToolStripMenuItem
+        '
+        Me.ComisionesSLToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AgentesToolStripMenuItem})
+        Me.ComisionesSLToolStripMenuItem.Name = "ComisionesSLToolStripMenuItem"
+        Me.ComisionesSLToolStripMenuItem.Size = New System.Drawing.Size(96, 20)
+        Me.ComisionesSLToolStripMenuItem.Text = "Comisiones SL"
+        '
+        'AgentesToolStripMenuItem
+        '
+        Me.AgentesToolStripMenuItem.Name = "AgentesToolStripMenuItem"
+        Me.AgentesToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.AgentesToolStripMenuItem.Text = "Agentes"
         '
         'Menu
         '
@@ -106,4 +121,6 @@ Partial Class Menu
     Friend WithEvents AgenteTipoCobroToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents SalirToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ComisionesVmgToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents ComisionesSLToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents AgentesToolStripMenuItem As ToolStripMenuItem
 End Class

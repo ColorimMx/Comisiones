@@ -240,7 +240,6 @@ C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\Crysta
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
-C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
@@ -249,3 +248,4 @@ C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\Crysta
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\stdole.dll
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbproj.SuggestedBindingRedirects.cache
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbproj.CopyComplete
+C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeSL.resources

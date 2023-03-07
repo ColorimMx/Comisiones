@@ -1,24 +1,39 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Comisiones", "Comisiones\Comisiones.vbproj", "{9C39982E-55D6-4C44-9418-C6C482AB9A73}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Debug|x64.ActiveCfg = Debug|x86
+		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Debug|x64.Build.0 = Debug|x86
 		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Debug|x86.ActiveCfg = Debug|x86
 		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Debug|x86.Build.0 = Debug|x86
+		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Release|x64.ActiveCfg = Release|x64
+		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Release|x64.Build.0 = Release|x64
 		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Release|x86.ActiveCfg = Release|x86
 		{9C39982E-55D6-4C44-9418-C6C482AB9A73}.Release|x86.Build.0 = Release|x86
+		{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}.Debug|x64.ActiveCfg = Debug
 		{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}.Debug|x86.ActiveCfg = Debug
+		{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}.Release|x64.ActiveCfg = Release
+		{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}.Release|x64.Build.0 = Release
 		{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}.Release|x86.ActiveCfg = Release
+		{C4D8977D-7F26-468A-AAD5-9959FBEAE32B}.Release|x86.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5688535D-8779-4839-8832-84EC9D6F44C0}
 	EndGlobalSection
 EndGlobal
