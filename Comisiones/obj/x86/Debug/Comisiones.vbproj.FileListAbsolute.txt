@@ -249,3 +249,4 @@ C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\bin\Debug\stdole
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbproj.SuggestedBindingRedirects.cache
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.vbproj.CopyComplete
 C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeSL.resources
+C:\Users\Pablo Amador Solis\Visual Studio\Comisiones\Comisiones\obj\x86\Debug\Comisiones.AgeFamSL.resources

@@ -136,6 +136,12 @@
     <Compile Include="Forms\AgeFamMBA.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Forms\AgeFamSL.Designer.vb">
+      <DependentUpon>AgeFamSL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AgeFamSL.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\AgeSL.Designer.vb">
       <DependentUpon>AgeSL.vb</DependentUpon>
     </Compile>
@@ -164,6 +170,12 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ComSlAge.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\ComSlAgeFam.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComSlAgeFam.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Forms\Loading.Designer.vb">
@@ -214,6 +226,9 @@
     <EmbeddedResource Include="Forms\AgeFamMBA.resx">
       <DependentUpon>AgeFamMBA.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AgeFamSL.resx">
+      <DependentUpon>AgeFamSL.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\AgeSL.resx">
       <DependentUpon>AgeSL.vb</DependentUpon>
     </EmbeddedResource>
@@ -231,6 +246,10 @@
     <EmbeddedResource Include="Forms\ComSlAge.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ComSlAge.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ComSlAgeFam.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ComSlAgeFam.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Loading.resx">
       <DependentUpon>Loading.vb</DependentUpon>

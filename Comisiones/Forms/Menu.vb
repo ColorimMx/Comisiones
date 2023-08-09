@@ -37,4 +37,10 @@
         a.Show()
         Me.FindForm()
     End Sub
+
+    Private Sub FamiliasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles FamiliasToolStripMenuItem.Click
+        Dim a As New AgeFamSL
+        a.Show()
+        Me.FindForm()
+    End Sub
 End Class
